@@ -9,4 +9,4 @@ menuIcon.onclick = function()
     container.classList.toggle('large-container')
 }
 
-console.log(sidebar)
+console.log(container)
